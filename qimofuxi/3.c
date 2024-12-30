@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int main()
 {
     long long N;
@@ -18,4 +18,4 @@ int main()
     }
     printf("%lld %lld",b,a);
     return 0;
-}
+}*/错误了，请看3.1
